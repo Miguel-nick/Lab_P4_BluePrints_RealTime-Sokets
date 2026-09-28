@@ -146,11 +146,7 @@ Tambien se demuestra la colaboracion en tiempo real mediante dos pestañas abier
 
 **Enlace al video:**
 
-> Pega aqui el enlace del video generado por GitHub.
-
-<!-- Reemplaza la linea anterior por un enlace como:
-[Ver video de demostracion](https://github.com/user-attachments/assets/PEGA-AQUI-EL-ENLACE)
--->
+[Ver video de demostracion](https://github.com/user-attachments/assets/60e5a65d-6ce8-436f-b5fa-88a67796f14f)
 
 ## Solucion de problemas
 
